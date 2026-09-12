@@ -1,0 +1,4 @@
+Modelo,RMSE,MAE,R2
+Baseline: Media histórica,133987.19,125901.83,-7.5436
+Baseline: Última semana,78503.68,65989.3,-1.9329
+Regresión Lineal V2,60046.02,49593.85,-0.7159

@@ -1,0 +1,4 @@
+Modelo,RMSE_test,MAE_test,R2_test,RMSE_train,R2_train
+Regresión Lineal,50683.76,42201.88,-0.2225,23081.65,0.8902
+Árbol de Decisión,59730.91,51415.52,-0.6979,14579.86,0.9562
+Random Forest,46810.88,41178.74,-0.0428,18917.3,0.9262
