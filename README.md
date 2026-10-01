@@ -184,7 +184,7 @@ Basándonos en los resultados del modelo:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/jdthgp27/Reto4_Prediccion_Ventas.git
+git clone https://github.com/everest9957/Reto4_Prediccion_Ventas.git
 cd Reto4_Prediccion_Ventas
 ```
 
@@ -257,7 +257,7 @@ Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICE
 
 **Judit Giravent Pineda**
 
-- GitHub: [@jdthgp27](https://github.com/jdthgp27)
+- GitHub: [@everest9957](https://github.com/everest9957)
 - LinkedIn: [linkedin.com/in/judit-giravent-27b167156](https://linkedin.com/in/judit-giravent-27b167156)
 
 
