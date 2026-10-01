@@ -1,0 +1,25 @@
+# === Datos pesados (regenerables con el script) ===
+datos/*.csv
+datos/*.xlsx
+datos/*.parquet
+
+# === Entornos virtuales ===
+venv/
+.venv/
+env/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
